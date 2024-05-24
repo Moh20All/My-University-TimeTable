@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Timetable university Biskra</string>
+    <string name="more" />
+    <string name="content_description_more" />
+    <string name="favorite" />
+    <string name="content_description_favorite" />
+    <string name="search" />
+    <string name="content_description_search" />
+    <string name="speciality_information">Speciality Information</string>
+    <string name="level_information">Level information</string>
+    <string name="section_information">Section information</string>
+    <string name="the_time_table">The Time table</string>
+    <string name="welcome_to_timetable_your_personalized_university_schedule_fetched_instantly_stay_organized_stay_focused_let_s_get_started">Welcome to Timetable. Your personalized university schedule, fetched instantly. Stay organized, stay focused. Let\'s get started!</string>
+    <string name="get_started">Get started</string>
+</resources>

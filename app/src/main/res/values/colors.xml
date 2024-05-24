@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="defalt">#6555a4</color>
+    <color name="defaltdis">#836eb9</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#66b9f9</color>
+    <color name="secondary">#ffde03</color>
+    <color name="third">#337357</color>
+    <color name="online">#2a9d8f</color>
+    <color name="TP">#8338ec</color>
+    <color name="TD">#ff006e</color>
+    <color name="Cours">#fb5607</color>
+</resources>
